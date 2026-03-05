@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Trading AI</title>
+  <desc id="desc">Automated Algorithmic Trading Intelligence</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#071225"/>
+      <stop offset="100%" stop-color="#0c1f3a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#35d6c2"/>
+      <stop offset="100%" stop-color="#0fb8f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g opacity="0.2" stroke="#8ab6d8">
+    <path d="M0 560h1200M0 500h1200M0 440h1200M0 380h1200" />
+    <path d="M170 0v630M350 0v630M530 0v630M710 0v630M890 0v630M1070 0v630" />
+  </g>
+  <path d="M170 420l140-70 120 30 180-140 150 80 160-140" fill="none" stroke="url(#accent)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="170" y="200" fill="#eef7ff" font-family="Segoe UI, Arial, sans-serif" font-size="86" font-weight="700">Trading AI</text>
+  <text x="170" y="265" fill="#a8bfd9" font-family="Segoe UI, Arial, sans-serif" font-size="36">Automated Algorithmic Trading Intelligence</text>
+</svg>
